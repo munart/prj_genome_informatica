@@ -3,4 +3,6 @@
 - Il file "test_db" è il DB legato al file "ilmnsolexademo_livescript1
 - il file "ilmnsolexademo" è il MATLAB code
 - il file "ilmnsolexa_sequence" è il file criptato
-- il file "SCHEMA E/R" è il diagramma principale del programma
+- il file "diagramma 1" è un diagramma ausiliario
+- il file "diagramma E-R" è il diagramma E-R
+- il file "progettazione_DB" è la documentazione/relazione della progettazione del DB
